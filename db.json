@@ -1,0 +1,14 @@
+{
+    "contacts": [
+        {
+            "id": "4f17298c-44be-4b35-9086-628ccdb524cf",
+            "name": "flying penguin",
+            "email": "w@w.com"
+        },
+        {
+            "id": "a0a87331-615a-4b0a-81a5-5bf5ccd5e29b",
+            "name": "Nathan Lee",
+            "email": "flying.penguin9196@gmail.com"
+        }
+    ]
+}
